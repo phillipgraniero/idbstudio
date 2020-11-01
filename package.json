@@ -67,7 +67,7 @@
   "dependencies": {
     "commander": "^2.17.1",
     "eshtml": "^0.2.1",
-    "fortjs": "^1.2.1",
+    "fortjs": "^1.15.1",
     "fs-extra": "^6.0.1",
     "loading-indicator": "^2.0.0"
   }
